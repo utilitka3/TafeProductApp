@@ -17,5 +17,8 @@
         <Label Content="Total charge after adding &#xA;the delivery charge ($25) $:" HorizontalAlignment="Left" Margin="48,190,0,0" VerticalAlignment="Top"/>
         <TextBlock x:Name="totalChargeTextBlock" HorizontalAlignment="Left" Margin="206,209,0,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
 
+        <Label Content="Total charge after adding &#xA;the wrap charge ($5) $:" HorizontalAlignment="Left" Margin="48,232,0,0" VerticalAlignment="Top"/>
+        <TextBlock x:Name="totalWithWrapChargeTextBlock" HorizontalAlignment="Left" Margin="194,258,0,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+
     </Grid>
 </Window>
